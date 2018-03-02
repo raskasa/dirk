@@ -1,0 +1,6 @@
+# Where this project's executables are generated.
+bin/
+
+# IntelliJ
+
+.idea/
